@@ -151,7 +151,6 @@ hr{
    flex-direction: column;
    gap: 0px;
    width: 85vw;
-   border: solid .5px;
    justify-content: center;
 }
 .box-cells{
@@ -161,7 +160,7 @@ hr{
 }
 .box-cells, .hid{
    padding: 10px 20px 10px 20px;
-   border: solid .5px;
+   border-bottom: solid .5px;
 }
 .more{
    font-size: 25px;
